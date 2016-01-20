@@ -37,11 +37,11 @@
 		echo '<div>felhaszn:*</div>';
 		echo '<input type="text" name="username" id="username"><br>';
 		'<input type="text" name="rejtett" id="rejtett" value=username>';
-		echo '<div>jelszav:*</div>';
+		echo '<div>Jelszó:*</div>';
 		echo '<input type="password" name="passwd" id="passwd"><br>';
-		echo '<div>Jjelszav ismet*</div>';
+		echo '<div>Jelszó ismét*</div>';
 		echo '<input type="password" name="passwd2" id="passwd2"><br>';
-		echo '<div>nev:*</div>';
+		echo '<div>név:*</div>';
 		echo '<input type="text" name="nev" id="nev"><br>';
 		echo '<img src="chp.php">';
 		echo '<div>Captcha:</div>';
