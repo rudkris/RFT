@@ -1,11 +1,4 @@
-  <?php
-
-   ?>
-
-<div id="logoDiv">
-		<a href="index.php"><img id ="logo" src="header.jpg" width="100%" height="100%"/></a>
-	</div>
-  <link href="style.css" rel="stylesheet" type="text/css">
+<link href="style.css" rel="stylesheet" type="text/css">
 <div id="navigation" align="center">
   <ul>
   <?php
